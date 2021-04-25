@@ -1,0 +1,1 @@
+cmd_/home/cj/linux_character/linux_ownchara/test_mutex/modules.order := {   echo /home/cj/linux_character/linux_ownchara/test_mutex/globalmem_mutex_own.ko; :; } | awk '!x[$$0]++' - > /home/cj/linux_character/linux_ownchara/test_mutex/modules.order

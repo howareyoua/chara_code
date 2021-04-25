@@ -1,0 +1,1 @@
+cmd_/home/cj/linux_character/linux_ownchara/test_mutex/Module.symvers := sed 's/ko$$/o/' /home/cj/linux_character/linux_ownchara/test_mutex/modules.order | scripts/mod/modpost -m -a   -o /home/cj/linux_character/linux_ownchara/test_mutex/Module.symvers -e -i Module.symvers   -T -
